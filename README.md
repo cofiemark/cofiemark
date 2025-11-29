@@ -1,8 +1,8 @@
 PORTFOLIO => https://cofiemark.github.io/portfolio/
 - 👋 Hi, I’m @cofiemark
-- 👀 I’m interested in Mechatronics Engineering
-- 🌱 I’m currently learning C,C++ and Python programming
-- 💞️ I’m looking to collaborate on Embedded Systems Programming
+- 👀 I’m interested in Mechatronics Engineering and Control Systems
+- 🌱 I’m currently mastering n8n automation and Postgress/Supabase programming
+- 💞️ I’m looking to collaborate on Embedded Systems Projects
 - 📫 How to reach me, email: cofiemark@gmail.com
 
 <!---
