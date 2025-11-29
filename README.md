@@ -1,7 +1,7 @@
 PORTFOLIO => https://cofiemark.github.io/portfolio/
 - 👋 Hi, I’m @cofiemark
 - 👀 I’m interested in Mechatronics Engineering and Control Systems
-- 🌱 I’m currently mastering n8n automation and Postgress/Supabase programming
+- 🌱 I’m currently mastering n8n automation and Postgresql/Supabase programming
 - 💞️ I’m looking to collaborate on Embedded Systems Projects
 - 📫 How to reach me, email: cofiemark@gmail.com
 
